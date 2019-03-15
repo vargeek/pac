@@ -2189,7 +2189,8 @@ var domains={
     "zvereff.com": 1,
     "glosbe.com": 1, 
     "zyzc9.com": 1,
-    "coursera.org": 1
+    "coursera.org": 1,
+    "medium.com": 1,
 };
 
 
